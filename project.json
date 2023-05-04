@@ -1,6 +1,6 @@
 {
-  "name": "Data_insert_in_SSMS",
-  "description": "Insert data in SSMS data base",
+  "name": "UI_Path",
+  "description": "UI_Path Learn",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Database.Activities": "[1.7.1]",
